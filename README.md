@@ -42,11 +42,18 @@ Welcome to my Deep Learning journey! This repository documents my daily progress
 ---
 
 ## Day 2: AI vs ML vs DL
-- **Neurons and Layers:** Understanding the basic building blocks of neural networks.
-- **Activation Functions:** ReLU, Sigmoid, Tanh, and their roles.
-- **Loss Functions:** Measuring the performance of the model.
-- **Optimizers:** Gradient Descent, Adam, and RMSprop.
-
+- **AI:** AI is the broadest concept, referring to machines or systems that can perform tasks that typically require human intelligence.
+- **Goals:** To create systems that can think, reason, learn, and make decisions like humans.
+- **Examples:** Chatbots (e.g., ChatGPT), Self-driving cars, Game-playing AI (e.g., AlphaGo), Robotics etc.
+- **ML:** ML is a subset of AI that focuses on enabling machines to learn from data without being explicitly programmed..
+- **Goals:** To develop algorithms that can improve their performance on a task as they are exposed to more data.
+- **Types:** Supervised, unsupervised, semi-supervised and reinforcement learning.
+- **Examples:** Spam detection in emails, Recommendation systems (e.g., Netflix, Amazon),
+Fraud detection in banking etc.
+- **DL:** DL is a subset of ML that uses artificial neural networks with multiple layers (hence "deep") to model complex patterns in data.
+- **Goals:** To automatically learn hierarchical representations of data, enabling the system to perform tasks like image recognition, speech recognition, and natural language processing.
+- **Types:** Neural network, CNN, RNN, Transformers
+- **Examples:** Image classification (e.g., identifying cats vs. dogs),Speech-to-text systems (e.g., Siri, Alexa),Language translation (e.g., Google Translate) etc.
 ---
 
 ## Day 3: Types of Neural Networks
