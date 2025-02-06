@@ -41,7 +41,7 @@ Welcome to my Deep Learning journey! This repository documents my daily progress
 
 ---
 
-## Day 2: Neural Networks and Their Components
+## Day 2: AI vs ML vs DL
 - **Neurons and Layers:** Understanding the basic building blocks of neural networks.
 - **Activation Functions:** ReLU, Sigmoid, Tanh, and their roles.
 - **Loss Functions:** Measuring the performance of the model.
