@@ -11,7 +11,7 @@ Welcome to my Deep Learning journey! This repository documents my daily progress
   - [Table of Contents](#table-of-contents)
   - [Day 1: What is Deep Learning?](#day-1-what-is-deep-learning)
   - [Day 2: AI vs ML vs DL](#day-2-AI-vs-ML-vs-DL)
-  - [Day 3: Types of Neural Networks](#day-3-types-of-neural-networks)
+  - [Day 3: History & Types of Neural Networks](#day-3-history-&-types-of-neural-networks)
   - [Day 4: Training a Neural Network](#day-4-training-a-neural-network)
   - [Day 5: Convolutional Neural Networks (CNNs)](#day-5-convolutional-neural-networks-cnns)
   - [Day 6: Recurrent Neural Networks (RNNs)](#day-6-recurrent-neural-networks-rnns)
@@ -56,12 +56,21 @@ Fraud detection in banking etc.
   - **Examples:** Image classification (e.g., identifying cats vs. dogs),Speech-to-text systems (e.g., Siri, Alexa),Language translation (e.g., Google Translate) etc.
 ---
 
-## Day 3: Types of Neural Networks
-- **Feedforward Neural Networks (FNN):** Simplest type, used for basic tasks.
-- **Convolutional Neural Networks (CNN):** Specialized for image processing.
-- **Recurrent Neural Networks (RNN):** Designed for sequential data like text and time series.
-- **Long Short-Term Memory (LSTM):** A type of RNN for remembering long-term dependencies.
+## Day 3: History & Types of Neural Networks
+- **History:** Early Beginnings (1940s–1950s), The Perceptron (1950s–1960s), The AI Winter and Revival (1970s–1980s), The Rise of Deep Learning (1990s–2000s), Modern Era (2010s–Present)
+- **Feedforward Neural Networks (FNN):** The simplest type of neural network, where data flows in one direction (input → hidden layers → output).
+- **Convolutional Neural Networks (CNN):** Designed for processing grid-like data (e.g., images). Uses convolutional layers to detect spatial patterns like edges, shapes, and textures.
+- **Recurrent Neural Networks (RNN):** Designed for sequential data (e.g., time series, text). Uses loops to retain information from previous inputs.
+- **LSTM:** A type of RNN designed to overcome the vanishing gradient problem and remember long-term dependencies.
+- **Gated Recurrent Units (GRU):** A simplified version of LSTM with fewer parameters, making it faster to train.
+- **Autoencoders:** Unsupervised neural networks used for dimensionality reduction and feature learning.
+- **Generative Adversarial Networks (GANs):** Consists of two networks—a generator and a discriminator—that compete to create realistic data.
+- **Transformers:** A modern architecture that uses attention mechanisms to process sequential data more efficiently than RNNs.
+- **Radial Basis Function Networks (RBFN):** Uses radial basis functions as activation functions, often for interpolation and classification.
+- **Self-Organizing Maps (SOM):**  Unsupervised neural networks used for clustering and visualization of high-dimensional data.
+- **Spiking Neural Networks (SNN):** Mimics the behavior of biological neurons, using spikes to communicate.
 
+  
 ---
 
 ## Day 4: Training a Neural Network
