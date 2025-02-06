@@ -56,7 +56,8 @@ Fraud detection in banking etc.
   - **Examples:** Image classification (e.g., identifying cats vs. dogs),Speech-to-text systems (e.g., Siri, Alexa),Language translation (e.g., Google Translate) etc.
 ---
 
-## Day 3: History & Types of Neural Networks
+## Day 3: History & Types of Neural Networks 
+```For Details go to Day3```
 - **History:** Early Beginnings (1940s–1950s), The Perceptron (1950s–1960s), The AI Winter and Revival (1970s–1980s), The Rise of Deep Learning (1990s–2000s), Modern Era (2010s–Present)
 - **Feedforward Neural Networks (FNN):** The simplest type of neural network, where data flows in one direction (input → hidden layers → output).
 - **Convolutional Neural Networks (CNN):** Designed for processing grid-like data (e.g., images). Uses convolutional layers to detect spatial patterns like edges, shapes, and textures.
